@@ -78,9 +78,9 @@ Bu soru birebir alıntı değildir. Sâdece Zebra Problemine benzetilerek orijin
 
 ---
 
-================================================================================
+=========================================
 ZEBRA PUZZLE/PROBLEM DEFINITIVE SOLUTION
-================================================================================
+=========================================
 
 There are 2 valid solutions. Both satisfy all constraints:
 
@@ -108,9 +108,10 @@ House  Nation       Color      Drink      Food         Sport        Pet
 4      Japanese     green      tea        sushi        judo         rabbit    
 5      Italian      yellow     coffee     pizza        football     parrot    
 
-================================================================================
+===========================================================
 VERIFICATION OF ALL CONSTRAINTS (Valid for both solutions):
-================================================================================
+===========================================================
+
 1. ✓ Turkish: lives in red house, drinks ayran, eats lahmacun, does wrestling, owns a cat.
 2. ✓ Japanese: lives in green house, drinks tea, eats sushi, does judo, owns a rabbit.
 3. ✓ Italian: eats pizza, plays football, drinks coffee, owns a parrot.
@@ -122,20 +123,22 @@ VERIFICATION OF ALL CONSTRAINTS (Valid for both solutions):
 9. ✓ The parrot lives with the person who drinks coffee (Italian).
 10.✓ The person who drinks smoothie (Brazilian) plays tennis.
 
-================================================================================
+===========
 CONCLUSION:
-================================================================================
+===========
+
 The Zebra problem has been successfully solved!
 2 valid solutions were found.
 Both solutions satisfy all 10 constraints.
 The only difference between solutions: The colors of the Brazilian and Italian are swapped.
+
 ================================================================================
 
 ---
 
-================================================================================
+============================
 ZEBRA PROBLEMİ KESİN ÇÖZÜMÜ
-================================================================================
+============================
 
 2 adet geçerli çözüm vardır. Her ikisi de tüm kısıtları sağlar:
 
@@ -163,9 +166,10 @@ Ev   Millet       Renk     İçecek     Yemek        Spor         Hayvan
 4    Japon        yeşil    çay        sushi        judo         tavşan    
 5    İtalyan      sarı     kahve      pizza        futbol       papağan   
 
-================================================================================
+========================================================
 TÜM KISITLARIN KONTROLÜ (Her iki çözüm için de geçerli):
-================================================================================
+========================================================
+
 1. ✓ Türk: kırmızı evde, ayran içiyor, lahmacun yiyor, güreş yapıyor, kedi besliyor.
 2. ✓ Japon: yeşil evde, çay içiyor, sushi yiyor, judo yapıyor, tavşan besliyor.
 3. ✓ İtalyan: pizza yiyor, futbol oynuyor, kahve içiyor, papağan besliyor.
@@ -177,9 +181,10 @@ TÜM KISITLARIN KONTROLÜ (Her iki çözüm için de geçerli):
 9. ✓ Papağan, kahve içen kişinin (İtalyan) evinde yaşıyor.
 10.✓ Smoothie içen kişi (Brezilyalı), tenis oynuyor.
 
-================================================================================
+======
 SONUÇ:
-================================================================================
+======
+
 Zebra problemi başarıyla çözüldü!
 2 adet geçerli çözüm bulundu.
 Her iki çözüm de tüm 10 kısıtı sağlamaktadır.
