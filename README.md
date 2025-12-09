@@ -78,3 +78,111 @@ Bu soru birebir alıntı değildir. Sâdece Zebra Problemine benzetilerek orijin
 
 ---
 
+================================================================================
+ZEBRA PUZZLE/PROBLEM DEFINITIVE SOLUTION
+================================================================================
+
+There are 2 valid solutions. Both satisfy all constraints:
+
+The only difference between the two solutions is the colors of the Italian and Brazilian.
+
+--------------------------------------------------------------------------------
+SOLUTION 1:
+--------------------------------------------------------------------------------
+House  Nation       Color      Drink      Food         Sport        Pet       
+--------------------------------------------------------------------------------
+1      Brazilian    yellow     smoothie   feijoada     tennis       dog       
+2      Turkish      red        ayran      lahmacun     wrestling    cat       
+3      Swedish      white      water      meatballs    ice hockey   fish      
+4      Japanese     green      tea        sushi        judo         rabbit    
+5      Italian      blue       coffee     pizza        football     parrot    
+
+--------------------------------------------------------------------------------
+SOLUTION 2:
+--------------------------------------------------------------------------------
+House  Nation       Color      Drink      Food         Sport        Pet       
+--------------------------------------------------------------------------------
+1      Brazilian    blue       smoothie   feijoada     tennis       dog       
+2      Turkish      red        ayran      lahmacun     wrestling    cat       
+3      Swedish      white      water      meatballs    ice hockey   fish      
+4      Japanese     green      tea        sushi        judo         rabbit    
+5      Italian      yellow     coffee     pizza        football     parrot    
+
+================================================================================
+VERIFICATION OF ALL CONSTRAINTS (Valid for both solutions):
+================================================================================
+1. ✓ Turkish: lives in red house, drinks ayran, eats lahmacun, does wrestling, owns a cat.
+2. ✓ Japanese: lives in green house, drinks tea, eats sushi, does judo, owns a rabbit.
+3. ✓ Italian: eats pizza, plays football, drinks coffee, owns a parrot.
+4. ✓ Brazilian: eats feijoada, plays tennis, drinks smoothie, owns a dog.
+5. ✓ Swedish: eats meatballs, plays ice hockey, lives in white house, drinks water, owns fish.
+6. ✓ Water is drunk in the middle house (house 3).
+7. ✓ The cat lives with the person who drinks ayran (Turkish).
+8. ✓ The dog (house 1) lives in the house to the LEFT of the person who drinks ayran (house 2).
+9. ✓ The parrot lives with the person who drinks coffee (Italian).
+10.✓ The person who drinks smoothie (Brazilian) plays tennis.
+
+================================================================================
+CONCLUSION:
+================================================================================
+The Zebra problem has been successfully solved!
+2 valid solutions were found.
+Both solutions satisfy all 10 constraints.
+The only difference between solutions: The colors of the Brazilian and Italian are swapped.
+================================================================================
+
+---
+
+================================================================================
+ZEBRA PROBLEMİ KESİN ÇÖZÜMÜ
+================================================================================
+
+2 adet geçerli çözüm vardır. Her ikisi de tüm kısıtları sağlar:
+
+İki çözüm arasındaki tek fark İtalyan ve Brezilyalı'nın renkleridir.
+
+--------------------------------------------------------------------------------
+ÇÖZÜM 1:
+--------------------------------------------------------------------------------
+Ev   Millet       Renk     İçecek     Yemek        Spor         Hayvan    
+--------------------------------------------------------------------------------
+1    Brezilyalı   sarı     smoothie   feijoada     tenis        köpek     
+2    Türk         kırmızı  ayran      lahmacun     güreş        kedi      
+3    İsveçli      beyaz    su         köttbullar   buz hokeyi   balık     
+4    Japon        yeşil    çay        sushi        judo         tavşan    
+5    İtalyan      mavi     kahve      pizza        futbol       papağan   
+
+--------------------------------------------------------------------------------
+ÇÖZÜM 2:
+--------------------------------------------------------------------------------
+Ev   Millet       Renk     İçecek     Yemek        Spor         Hayvan    
+--------------------------------------------------------------------------------
+1    Brezilyalı   mavi     smoothie   feijoada     tenis        köpek     
+2    Türk         kırmızı  ayran      lahmacun     güreş        kedi      
+3    İsveçli      beyaz    su         köttbullar   buz hokeyi   balık     
+4    Japon        yeşil    çay        sushi        judo         tavşan    
+5    İtalyan      sarı     kahve      pizza        futbol       papağan   
+
+================================================================================
+TÜM KISITLARIN KONTROLÜ (Her iki çözüm için de geçerli):
+================================================================================
+1. ✓ Türk: kırmızı evde, ayran içiyor, lahmacun yiyor, güreş yapıyor, kedi besliyor.
+2. ✓ Japon: yeşil evde, çay içiyor, sushi yiyor, judo yapıyor, tavşan besliyor.
+3. ✓ İtalyan: pizza yiyor, futbol oynuyor, kahve içiyor, papağan besliyor.
+4. ✓ Brezilyalı: feijoada yiyor, tenis oynuyor, smoothie içiyor, köpek besliyor.
+5. ✓ İsveçli: köttbullar yiyor, buz hokeyi oynuyor, beyaz evde, su içiyor, balık besliyor.
+6. ✓ Ortadaki evde (3. ev) su içiliyor.
+7. ✓ Kedi, ayran içen kişinin (Türk) evinde yaşıyor.
+8. ✓ Köpek (1. ev), ayran içen kişinin (2. ev) SOLUNDAKİ evde yaşıyor.
+9. ✓ Papağan, kahve içen kişinin (İtalyan) evinde yaşıyor.
+10.✓ Smoothie içen kişi (Brezilyalı), tenis oynuyor.
+
+================================================================================
+SONUÇ:
+================================================================================
+Zebra problemi başarıyla çözüldü!
+2 adet geçerli çözüm bulundu.
+Her iki çözüm de tüm 10 kısıtı sağlamaktadır.
+Çözümler arasındaki tek fark: Brezilyalı ve İtalyan'ın renklerinin yer değiştirmesidir.
+
+---
