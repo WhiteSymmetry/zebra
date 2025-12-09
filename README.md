@@ -79,7 +79,9 @@ Bu soru birebir alıntı değildir. Sâdece Zebra Problemine benzetilerek orijin
 ---
 
 =========================================
+
 ZEBRA PUZZLE/PROBLEM DEFINITIVE SOLUTION
+
 =========================================
 
 There are 2 valid solutions. Both satisfy all constraints:
@@ -109,7 +111,9 @@ House  Nation       Color      Drink      Food         Sport        Pet
 5      Italian      yellow     coffee     pizza        football     parrot    
 
 ===========================================================
+
 VERIFICATION OF ALL CONSTRAINTS (Valid for both solutions):
+
 ===========================================================
 
 1. ✓ Turkish: lives in red house, drinks ayran, eats lahmacun, does wrestling, owns a cat.
@@ -124,7 +128,9 @@ VERIFICATION OF ALL CONSTRAINTS (Valid for both solutions):
 10.✓ The person who drinks smoothie (Brazilian) plays tennis.
 
 ===========
+
 CONCLUSION:
+
 ===========
 
 The Zebra problem has been successfully solved!
@@ -137,7 +143,9 @@ The only difference between solutions: The colors of the Brazilian and Italian a
 ---
 
 ============================
+
 ZEBRA PROBLEMİ KESİN ÇÖZÜMÜ
+
 ============================
 
 2 adet geçerli çözüm vardır. Her ikisi de tüm kısıtları sağlar:
@@ -167,7 +175,9 @@ Ev   Millet       Renk     İçecek     Yemek        Spor         Hayvan
 5    İtalyan      sarı     kahve      pizza        futbol       papağan   
 
 ========================================================
+
 TÜM KISITLARIN KONTROLÜ (Her iki çözüm için de geçerli):
+
 ========================================================
 
 1. ✓ Türk: kırmızı evde, ayran içiyor, lahmacun yiyor, güreş yapıyor, kedi besliyor.
@@ -182,7 +192,9 @@ TÜM KISITLARIN KONTROLÜ (Her iki çözüm için de geçerli):
 10.✓ Smoothie içen kişi (Brezilyalı), tenis oynuyor.
 
 ======
+
 SONUÇ:
+
 ======
 
 Zebra problemi başarıyla çözüldü!
